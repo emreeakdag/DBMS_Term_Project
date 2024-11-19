@@ -5,5 +5,5 @@ CREATE TABLE IF NOT EXISTS hasta (
 	yas int NOT NULL,
 	cinsiyet boolean NOT NULL,
 	hastalik varchar NOT NULL,
-	tel_no int NOT NULL
+	tel_no bigint NOT NULL
 )
